@@ -2,7 +2,7 @@
 
 Sou estudante de programação e estou me preparando para uma vaga de estágio em backend Python com IA.
 Este repositório guarda os exercícios da minha trilha de estudos, em três assuntos: `python/`, `ia/` e `claude/`.
-Cada pasta de tópico usa o número da trilha, como `python/09_solid`.
+Cada pasta de tópico usa o nome do tópico, sem numeração, como `python/solid`.
 
 **Todo o código daqui é escrito por mim.** O objetivo é aprender, não terminar rápido.
 
@@ -29,7 +29,7 @@ Cada pasta de tópico usa o número da trilha, como `python/09_solid`.
 
 ## Git
 
-- Uma branch por tópico, com o nome da pasta. Exemplo: `python/09_solid`.
+- Uma branch por tópico, com o nome da pasta. Exemplo: `python/solid`.
 - Cada tópico tem uma issue, e termina com um pull request que fecha essa issue.
 - Não faça commit, push ou merge sem eu pedir.
 

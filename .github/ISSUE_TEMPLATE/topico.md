@@ -1,7 +1,7 @@
 ---
 name: Tópico de estudo
 about: Um tópico da trilha para estudar
-title: "[Python 00] Nome do tópico"
+title: "[Python] Nome do tópico"
 labels: estudo
 ---
 
