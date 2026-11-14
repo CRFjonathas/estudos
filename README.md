@@ -39,6 +39,8 @@ python -m venv .venv
 # Linux/macOS
 source .venv/bin/activate
 
+pip install -r requirements.txt
+
 python python/solid/exercicio.py
 ```
 
