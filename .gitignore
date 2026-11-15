@@ -16,3 +16,7 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Contexto pessoal do Claude
+contexto/
+CLAUDE.local.md
