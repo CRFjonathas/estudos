@@ -14,5 +14,8 @@ O que eu preciso saber fazer ao final deste tópico.
 
 ## Concluído quando
 - [ ] Exercícios feitos e no GitHub
+- [ ] Testes passando
 - [ ] Nota revisada no Obsidian
+- [ ] Cartões aprovados
+- [ ] README do tópico escrito
 - [ ] Progresso atualizado no README
