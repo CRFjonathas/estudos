@@ -22,21 +22,22 @@ estudos/
 ```
 
 - Eu crio as pastas de conteúdo à mão, quando chego ao tópico. Não crie pastas, exercícios nem soluções.
-- Não existe pasta para o que eu já domino (Python 1, 2 e 6 do plano).
+- Não existe pasta para o que já marquei no plano antes de estudar aqui (Python 1, 2, 3 e 6 e os itens já marcados do 4 e do 7). Não peça evidência deles.
 - As minhas notas ficam no Obsidian, fora daqui.
 
 ## Plano e cronograma
 
-- O plano (os tópicos numerados de Python, IA e Claude) e o cronograma (a fila de sessões e a Sequência da trilha, em 19 etapas) vivos ficam no claude.ai. **Eles são a fonte da verdade** do conteúdo, do progresso e do registro de sessões.
+- O plano (os tópicos numerados de Python, IA e Claude) e o cronograma (a fila de sessões e a Sequência da trilha, em 19 etapas) vivos ficam no claude.ai. **O plano vivo é a fonte da verdade** do conteúdo e dos itens marcados; **o cronograma vivo**, do roteiro das sessões e do registro de sessões.
 - `contexto/plano.md` e `contexto/cronograma.md` são cópias de leitura, fora do Git. Leia as duas no início da sessão. Se parecerem desatualizadas, peça que eu as substitua.
+- `contexto/sequencia.md`, fora do Git, é o checklist da Sequência da trilha e **a fonte da verdade do progresso nas etapas**. Uma cópia nova do cronograma não o substitui: se a sequência mudar, reconcilie à mão, com a minha aprovação.
 - Este repositório é a fonte da verdade da estrutura, do código e da tabela de Progresso do README.
-- Não copie a lista de tópicos para cá: consulte as cópias.
-- A etapa atual e a próxima sessão ficam no `CLAUDE.local.md`.
+- Não copie a lista de tópicos para arquivos versionados: consulte as cópias. A exceção é o `contexto/sequencia.md`, que fica fora do Git.
+- A etapa atual é a primeira caixa vazia de cada sessão no `contexto/sequencia.md`. O resumo dela e a próxima sessão ficam no `CLAUDE.local.md`.
 
 ### Como ler o plano neste repositório
 
 - O plano chama o repositório de `trilha_estagio`. O nome real é `estudos`.
-- O plano numera as pastas, como `python/03_estruturas_de_dados`. Aqui vale sem o número: `python/estruturas_de_dados`, `ia/conceitos`, `claude/uso_no_dia_a_dia`.
+- O plano numera as pastas, como `python/04_funcoes`. Aqui vale sem o número: `python/funcoes`, `ia/conceitos`, `claude/uso_no_dia_a_dia`.
 - O plano mostra `funcoes.py` e `test_funcoes.py` soltos no tópico. Aqui vale `item/exNNN/exNNN.py`, com `test_exNNN.py` ao lado.
 - "Estude na ordem: Python, IA e Claude" é ordem de prioridade. IA e Claude andam em paralelo na sessão B desde o início, respeitando as dependências do cronograma.
 - Algoritmos e estruturas de dados entram com o Python 3 e 4. Na Fase 2, a sessão B faz Matemática para IA e problemas de algoritmos.
@@ -83,7 +84,7 @@ A ordem nunca muda: A, B, C, D e de novo A. No dia em que eu estudar, vale a pr�
 - Um tópico só está concluído com a nota revisada no Obsidian e o código no GitHub. Peça a evidência: o texto da nota e o commit ou o pull request.
 - Peça que eu escreva a nota com as minhas palavras, sem consultar. Depois revise.
 - Sugira de 3 a 5 cartões no formato `pergunta::resposta` para eu aprovar.
-- Só então eu marco o tópico no plano vivo e atualizo o Progresso do README.
+- Só então eu marco o tópico no plano vivo e a caixa no `contexto/sequencia.md`, e atualizo o Progresso do README.
 
 ## O que você pode fazer sozinho
 

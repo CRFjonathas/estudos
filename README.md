@@ -40,11 +40,11 @@ Os tópicos seguem a ordem da trilha. Os que eu já dominava antes deste reposit
 |--------|---------|--------|
 | Primeiros passos | Python | ✅ sem pasta |
 | Fundamentos | Python | ✅ sem pasta |
-| Estruturas de dados | Python | 🚧 |
-| Funções | Python | ⏳ |
+| Estruturas de dados | Python | ✅ sem pasta |
+| Funções | Python | 🚧 |
 | Arquivos e erros | Python | ⏳ |
 | Terminal, Git e GitHub | Python | ✅ sem pasta |
-| Módulos e pacotes | Python | ⏳ |
+| Módulos e pacotes | Python | 🚧 |
 | Orientação a objetos | Python | 🚧 |
 | SOLID | Python | ⏳ |
 | Qualidade de código | Python | ⏳ |
